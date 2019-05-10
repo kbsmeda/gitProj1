@@ -7,5 +7,7 @@ public static void main(String args[]) {
 	//After 1st commit in local
 	System.out.println("**** git ****");
 	
+	System.out.println("**** checking git ****");
+	
 }
 }
