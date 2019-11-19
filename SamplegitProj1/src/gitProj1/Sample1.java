@@ -13,7 +13,8 @@ public static void main(String args[]) {
 	
 	//From Remote
 	System.out.println("**** nov 18th ****");
-	System.out.println("**** nov 19th ****");
+	
+	System.out.println("**** nov 19th today ****");
 	
 	
 }
